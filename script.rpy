@@ -44,7 +44,8 @@ label good_ending:
 label ending:
      if bad_ending:
          scene bad_end
-         "you die. the end."
+         "you die. you idiot. what did you think would happen when you ignored a red flag. I have no words you are exceptionally stupid"
+         "thats it. the end. get out."
      else:
          scene the_end
          "The end"
